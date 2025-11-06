@@ -36,6 +36,11 @@ If you want to run locally:
 pip install numpy pandas scikit-learn tensorflow matplotlib
 ```
 
+## 🎤 Project Presentation
+The full presentation is included here:
+
+**slides/Wine_Quality_Project_PPT.pptx**
+
 ## 📊 Results & Visualizations
 
 All the visualizations from data exploration and model training are available in the `results` folder:
