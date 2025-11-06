@@ -10,6 +10,9 @@ The model was trained for 100 epochs and visualized with loss/accuracy graphs.
 - ✅ Instructions to download dataset
 - ✅ Clean and beginner-friendly code
 
+## 📄 Problem Statement
+The original problem instructions are available in the `docs` folder for reference.
+
 ## 📌 Dataset
 The dataset is the classic **Wine Quality Data Set (UCI Machine Learning Repository)**.
 
@@ -35,7 +38,7 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 
 ## 📊 Results & Visualizations
 
-All the visualizations from data exploration and model training are available in the results folder:
+All the visualizations from data exploration and model training are available in the `results` folder:
 | Graph                             | File                             |
 | --------------------------------- | -------------------------------- |
 | Feature distribution plots        | `feature_distributions.png`      |
