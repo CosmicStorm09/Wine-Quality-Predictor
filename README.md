@@ -35,7 +35,7 @@ pip install numpy pandas scikit-learn tensorflow matplotlib
 
 ## 📊 Results & Visualizations
 
-All the visualizations from data exploration and model training are available in the /results folder:
+All the visualizations from data exploration and model training are available in the results folder:
 | Graph                             | File                             |
 | --------------------------------- | -------------------------------- |
 | Feature distribution plots        | `feature_distributions.png`      |
