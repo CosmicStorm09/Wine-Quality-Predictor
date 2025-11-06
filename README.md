@@ -31,3 +31,15 @@ You can run the project in **Google Colab** (recommended):
 If you want to run locally:
 ```bash
 pip install numpy pandas scikit-learn tensorflow matplotlib
+```
+
+## 📊 Results & Visualizations
+
+All the visualizations from data exploration and model training are available in the /results folder:
+| Graph                             | File                             |
+| --------------------------------- | -------------------------------- |
+| Feature distribution plots        | `feature_distributions.png`      |
+| Quality score distribution        | `quality_score_distribution.png` |
+| Predictions vs Actual Scatterplot | `predictions_vs_actual.png`      |
+| Training Loss Curve               | `loss and mae_over_epochs.png`   |
+| Training MAE Curve                | `loss and mae_over_epochs.png`   |
