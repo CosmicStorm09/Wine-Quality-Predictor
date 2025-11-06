@@ -1,2 +1,33 @@
-# Wine-Quality-Predictor
-Deep learning model (MLP in Keras/TensorFlow) for wine quality prediction. Clean project structure, reproducible environment, training visuals, and supporting slides.
+# Wine Quality Prediction – Neural Network (100 Epochs)
+
+This project uses a simple Neural Network to predict wine quality based on physicochemical properties like acidity, sugar, pH, alcohol content, etc.  
+The model was trained for 100 epochs and visualized with loss/accuracy graphs.
+
+## 🔥 What’s Inside
+- ✅ Google Colab Notebook (`.ipynb`)
+- ✅ Training graphs (100 epochs)
+- ✅ Presentation slides (`.pptx`)
+- ✅ Instructions to download dataset
+- ✅ Clean and beginner-friendly code
+
+## 📌 Dataset
+The dataset is the classic **Wine Quality Data Set (UCI Machine Learning Repository)**.
+
+You can download it from here:  
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
+After downloading:
+- Put the `.csv` file in a folder named `data/` (optional)
+- Or load it directly in Colab via file upload
+
+## 🚀 How to Run
+You can run the project in **Google Colab** (recommended):
+
+1. Open the notebook  
+2. Upload the dataset  
+3. Run all cells to train the model  
+4. View graphs and predictions
+
+If you want to run locally:
+```bash
+pip install numpy pandas scikit-learn tensorflow matplotlib
